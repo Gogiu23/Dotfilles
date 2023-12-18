@@ -1,0 +1,32 @@
+import = ["/Users/alessandrodominici/.config/alacritty/themes/themes/tokyo-night.toml"]
+live_config_reload = true
+
+[font]
+size = 18
+
+[font.bold]
+family = "VictorMono Nerd Font"
+style = "Medium"
+
+[font.italic]
+family = "VictorMono Nerd Font"
+style = "Light Italic"
+
+[font.normal]
+family = "VictorMono Nerd Font"
+style = "SemiBold"
+
+[scrolling]
+history = 10000
+multiplier = 2
+
+[window]
+option_as_alt = "Both"
+decorations = "none"
+decorations_theme_variant = "None"
+dynamic_title = true
+opacity = 0.95
+
+[window.padding]
+x = 0
+y = 0

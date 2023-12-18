@@ -1,0 +1,4 @@
+coc/extensions/coc-kotlin-data/langServerInstall/server/lib filter=lfs diff=lfs merge=lfs -text
+coc/extensions/coc-kotlin-data/langServerInstall/server/lib/kotlin-compiler-1.9.10.jar filter=lfs diff=lfs merge=lfs -text
+coc/extensions/coc-kotlin-data/langServerInstall/server/lib/kotlin-compiler-1.8.10.jar filter=lfs diff=lfs merge=lfs -text
+coc/extensions/coc-clangd-data/install/16.0.2/clangd_16.0.2/bin/clangd filter=lfs diff=lfs merge=lfs -text
