@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:Gogiu23/Lua-Nvim.git
+[submodule "kitty-themes"]
+	path = kitty-themes
+	url = https://github.com/dexpota/kitty-themes
