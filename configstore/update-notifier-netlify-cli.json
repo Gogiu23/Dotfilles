@@ -1,9 +1,9 @@
 {
 	"optOut": false,
-	"lastUpdateCheck": 1710773906350,
+	"lastUpdateCheck": 1711915560451,
 	"update": {
-		"latest": "17.19.5",
-		"current": "17.19.4",
+		"latest": "17.21.1",
+		"current": "17.21.0",
 		"type": "patch",
 		"name": "netlify-cli"
 	}

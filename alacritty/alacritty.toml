@@ -18,12 +18,12 @@ style = "SemiBold"
 
 [scrolling]
 history = 10000
-multiplier = 2
+multiplier = 3
 
 [window]
 option_as_alt = "Both"
-decorations = "none"
-decorations_theme_variant = "None"
+decorations = "Buttonless"
+decorations_theme_variant = "dark"
 dynamic_title = true
 opacity = 0.95
 
