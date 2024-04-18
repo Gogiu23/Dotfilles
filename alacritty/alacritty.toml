@@ -22,10 +22,11 @@ multiplier = 3
 
 [window]
 option_as_alt = "Both"
-decorations = "Buttonless"
+decorations = "Full"
 decorations_theme_variant = "dark"
-dynamic_title = true
-opacity = 0.95
+opacity = 0.9
+# blur = true
+# startup_mode = "SimpleFullscreen"
 
 [window.padding]
 x = 0
