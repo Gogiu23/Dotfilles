@@ -3,7 +3,13 @@
 
 #Insert a blank line between shell prompts
 add_newline = false
+command_timeout = 1000
+follow_symlinks = false
+
+format = '$all'
 
 [memory_usage]
 disabled = true
 threshold = 85
+
+
