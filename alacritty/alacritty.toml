@@ -2,15 +2,15 @@ import = ["/Users/alessandrodominici/.config/alacritty/themes/themes/tokyo-night
 live_config_reload = true
 
 [font]
-size = 18
+size = 20
 
-[font.bold]
-family = "VictorMono Nerd Font"
-style = "Medium"
-
-[font.italic]
-family = "VictorMono Nerd Font"
-style = "Light Italic"
+# [font.bold]
+# family = "VictorMono Nerd Font"
+# style = "Medium"
+#
+# [font.italic]
+# family = "VictorMono Nerd Font"
+# style = "Light Italic"
 
 [font.normal]
 family = "VictorMono Nerd Font"
@@ -24,8 +24,8 @@ multiplier = 3
 option_as_alt = "Both"
 decorations = "Full"
 decorations_theme_variant = "dark"
-opacity = 0.9
-# blur = true
+opacity = 0.95
+blur = true
 # startup_mode = "SimpleFullscreen"
 
 [window.padding]
