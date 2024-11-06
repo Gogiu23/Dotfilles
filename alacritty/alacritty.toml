@@ -1,8 +1,8 @@
-import = ["/Users/alessandrodominici/.config/alacritty/themes/themes/tokyo-night.toml"]
-live_config_reload = true
+general.import = ["/Users/alessandrodominici/.config/alacritty/themes/themes/tokyo-night.toml"]
+general.live_config_reload = true
 
 [font]
-size = 20
+size = 18
 
 # [font.bold]
 # family = "VictorMono Nerd Font"
