@@ -39,3 +39,6 @@ import = ["/Users/alessandrodominici/.config/alacritty/themes/themes/tokyo-night
 key = "Return"
 mods = "Shift"
 chars = "\u001B\r"
+
+[terminal.shell] 
+program = "/opt/homebrew/bin/fish"
